@@ -7,10 +7,10 @@ namespace Vlmz\Lmz;
 
 /**
  * 测试类
- * Class liao
+ * Class lmz
  * @package Vlmz
  */
-class liao
+class Lmz
 {
     /**
      * test
