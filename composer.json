@@ -1,0 +1,28 @@
+{
+  "name": "vlmz/lmz",
+  "description": "Is a test class.",
+  "license": "MIT",
+  "homepage": "https://github.com/vlmz",
+  "keywords": [
+    "vlmz",
+    "test",
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "Liaomingzhang",
+      "email": "10055001@qq.com",
+      "homepage": "https://github.com/vlmz"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Vlmz\\Lmz\\": "./"
+    }
+  }
+}
